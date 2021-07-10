@@ -3,7 +3,6 @@
 git 使用步骤：
 1.
 Debian 系列：apt-get install git
-
 Fedora 上：yum install git-core
 
 2.新建仓库
@@ -23,7 +22,6 @@ gedit README.md
 使用 git push 命令，将本地代码库同步到 远端仓库
 
 6.
-
 git config --global user.name "shenle"
 git config --global user.email "305030951@qq.com"
 
@@ -33,15 +31,11 @@ git commit -m "first commit"
 8.
 git remote add origin 仓库链接
 https://github.com/shenle2019/pythontest100.git
-
 git remote add origin https://github.com/shenle2019/pythontest100.git
-
 
 9.
 git push origin master
 
-
-10.想克隆项目
-
+10.克隆项目
 cd /home/shiyanlou/
 git clone https://github.com/shiyanlou/gitproject
