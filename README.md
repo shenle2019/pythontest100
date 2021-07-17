@@ -1,6 +1,7 @@
 #Demo
 
-git 使用步骤：
+git 使用步骤:
+
 1.Debian 系列：apt-get install git
 Fedora 上：yum install git-core
 
